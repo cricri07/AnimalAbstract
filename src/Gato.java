@@ -1,8 +1,9 @@
 public class Gato extends Anmal {
-        private String name;
+        private String raza;
 
-        public Gato(String name) {
-            this.name = name;
+        public Gato(String nombre,String raza) {
+            super(nombre);
+            this.raza = raza;
         }
         @Override
         public void sonido(){

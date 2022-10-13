@@ -1,7 +1,7 @@
 public abstract class Anmal {
-    private String nombre;
+    protected String nombre;
 
-    public Anmal(){
+    public Anmal(String nombre){
 
     }
 
