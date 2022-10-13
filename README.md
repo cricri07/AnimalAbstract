@@ -1,8 +1,12 @@
 # AnimalAbstract
-## Description
+## Descripción
 ***
 Ejemplo de conexión IntelliJ + GitHub
-##Tecnologías
+## Tecnologías
 ***
 *[IntelliJ](https://www.jetbrains.com/)
 *[Java]
+## Colaboración
+***
+## FAQ
+***
