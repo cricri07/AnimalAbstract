@@ -15,4 +15,6 @@ public class Perro extends Anmal {
         System.out.println(this.getNombre()+" dice GUAU");
     }
 
+    public void morder() { System.out.println(" morder");}
+
 }
